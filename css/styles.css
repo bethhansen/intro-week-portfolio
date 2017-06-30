@@ -1,14 +1,30 @@
 body {
   background-image: url(../img/background.jpg);
 }
-/*----header-----*/
-h1 {
-  font-family: 'Tillana', cursive;
-  font-size: 60px;
-}
 
 p {
-  font-family: 'Kalam', cursive;
+  font-style: "Croissant One", cursive;
+  font-size: 18px;
+}
+
+/*----nav-bar-----*/
+.nav-bar {
+  height: 50px;
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightgray;
+  font-style: "Croissant One", cursive;
+}
+.nav-bar li {
+  float: right;
+  margin-left: 15px;
+  font-weight: 30px;
+}
+/*----header-----*/
+h1 {
+  font-family: 'Croissant One', cursive;
+  font-size: 50px;
 }
 
 .header {
@@ -27,41 +43,36 @@ p {
   float: left;
 }
 
-.profile-img {
-  height: 300px;
-  width: 300px;
-}
-
 /*----center container-----*/
 .center-container {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-top: 500px
 }
 
 .panel1 {
-  border: 2px solid red;
-  padding: 20px;
-
+  /*border: 2px solid red;*/
+  padding: 10px;
+  margin-top: 5px;
 }
 
 .panel2 {
-  border: 2px solid green;
-  padding: 20px;
-
+  /*border: 2px solid green;*/
+  padding: 10px;
+  margin-top: 5px;
 }
 .panel3 {
-  border: 2px solid blue;
-  padding: 20px;
-
+  /*border: 2px solid blue;*/
+  padding: 10px;
+  margin-top: 5px;
 }
 .panel4 {
-  border: 2px solid purple;
-  padding: 20px;
-
+  /*border: 2px solid purple;*/
+  padding: 10px;
+  margin-top: 5px;
 }
 
-
+.link {
+  text-align: center;
+}
 
 
 

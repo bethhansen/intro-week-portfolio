@@ -1,0 +1,69 @@
+body {
+  background-image: url(../img/background.jpg);
+}
+/*----header-----*/
+h1 {
+  font-family: 'Tillana', cursive;
+  font-size: 60px;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+}
+
+.header {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 100px;
+}
+
+.profile-intro {
+  float: right;
+  height: 300px;
+  width: 400px;
+}
+
+.profile {
+  float: left;
+}
+
+.profile-img {
+  height: 300px;
+  width: 300px;
+}
+
+/*----center container-----*/
+.project1 {
+  height: 300px;
+  width: 300px;
+  border: 2px solid blue;
+}
+.project2 {
+  height: 300px;
+  width: 300px;
+  border: 2px solid green;
+}
+.project3 {
+  height: 300px;
+  width: 300px;
+  border: 2px solid yellow;
+}
+.project4 {
+  height: 300px;
+  width: 300px;
+  border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+/*font-family: 'Rock Salt', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Pangolin', cursive;
+font-family: 'Tillana', cursive;*/

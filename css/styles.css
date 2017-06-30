@@ -21,6 +21,14 @@ p {
   margin-left: 15px;
 }
 /*----header-----*/
+h2 {
+  text-align: center;
+  height: 60px;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightgray;
+}
+
 h1 {
   font-family: 'Croissant One', cursive;
   font-size: 50px;
@@ -74,12 +82,7 @@ h1 {
 }
 
 
-
-
-
-
-
-/*font-family: 'Rock Salt', cursive;
-font-family: 'Kalam', cursive;
-font-family: 'Pangolin', cursive;
-font-family: 'Tillana', cursive;*/
+/*----about me-----*/
+.about-me {
+  margin-top: 30px;
+}

@@ -28,9 +28,9 @@ Don't forget your Git commits with an initial commit and a commit for every majo
 * Clone to your desktop_
 * View and edit code by using Atom
 
-## Known Bugs
+## GitHub
 
-No known bugs
+Available on GitHub https://bethhansen.github.io/intro-week-portfolio/
 
 ## Support and contact details
 

@@ -1,12 +1,10 @@
 body {
   background-image: url(../img/background.jpg);
 }
-
 p {
   font-style: "Croissant One", cursive;
   font-size: 18px;
 }
-
 /*----nav-bar-----*/
 .nav-bar {
   height: 50px;
@@ -28,39 +26,32 @@ h2 {
   margin: 10px;
   background-color: lightgray;
 }
-
 h1 {
   font-family: 'Croissant One', cursive;
   font-size: 50px;
 }
-
 .header {
   margin-left: 150px;
   margin-right: 150px;
   margin-top: 100px;
 }
-
 .profile-intro {
   float: right;
   height: 300px;
   width: 400px;
 }
-
 .profile {
   float: left;
 }
-
 /*----center container-----*/
 .center-container {
   margin-top: 500px
 }
-
 .panel1 {
   /*border: 2px solid red;*/
   padding: 10px;
   margin-top: 5px;
 }
-
 .panel2 {
   /*border: 2px solid green;*/
   padding: 10px;
@@ -76,12 +67,9 @@ h1 {
   padding: 10px;
   margin-top: 5px;
 }
-
 .link {
   text-align: center;
 }
-
-
 /*----about me-----*/
 .about-me {
   margin-top: 30px;

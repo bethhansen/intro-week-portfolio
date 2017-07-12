@@ -6,11 +6,11 @@
 
 ## Description
 
-Our projects is as follows......
-  Portfolio Landing Page
+This project is as follows from the Epicodus curriculum:
+Portfolio Landing Page
 Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. Do not use a template to create your initial HTML/bootstrap setup. Begin your work with an empty page and an initial empty commit.
 
-Your project should include the following:
+The project should include the following:
 
 Your name.
 An image of you, or something that represents you.
